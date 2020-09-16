@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryota1116&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ryota1116&count_private=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryota1116&layout=compact&count_private=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
