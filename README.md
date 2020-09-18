@@ -4,7 +4,6 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryota1116&column=7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-[![](https://raw.githubusercontent.com/ryota1116/ryota1116/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
   
 <p align="left">
   <a href="https://github.com/ryota1116/ryota1116/">
