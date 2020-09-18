@@ -1,7 +1,5 @@
-<p align="left"> 
-  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=ryota1116&count_private=true&show_icons=true&show_icons=true&theme=algolia" />
-  <img alt="Top Langs" height="２００px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryota1116&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=algolia" />
-</p>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ryota1116&count_private=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryota1116&layout=compact&count_private=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryota1116&column=7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
