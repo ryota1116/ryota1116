@@ -5,16 +5,16 @@
   
 <p align="left">
   <a href="https://github.com/ryota1116/ryota1116/">
-    <img src="https://komarev.com/ghpvc/?username=ryota1116" alt="ryota1116" />
+    <img height="30" src="https://komarev.com/ghpvc/?username=ryota1116" alt="ryota1116" />
   </a>
   <a href="http://twitter.com/ryota_chocolat">
-    <img height="20" src="https://img.shields.io/twitter/follow/ryota_chocolat?label=Twitter&logo=twitter&style=flat" />
+    <img height="30" src="https://img.shields.io/twitter/follow/ryota_chocolat?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="http://qiita.com/ryota21">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/ryota21/posts.svg" />
+    <img height="30" src="https://qiita-badge.apiapi.app/s/ryota21/posts.svg" />
   </a>
   <//qiita.com/ryota21">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/ryota21/contributions.svg" />
+    <img height="30" src="https://qiita-badge.apiapi.app/s/ryota21/contributions.svg" />
   </a>
 </p>
 
